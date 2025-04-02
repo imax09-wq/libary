@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+src/tick_db/__init__.py
+src/tick_db/db.py
+src/tick_db/parsers.py
+src/tick_db/sym_it.py
+src/tick_db_etl.egg-info/PKG-INFO
+src/tick_db_etl.egg-info/SOURCES.txt
+src/tick_db_etl.egg-info/dependency_links.txt
+src/tick_db_etl.egg-info/requires.txt
+src/tick_db_etl.egg-info/top_level.txt

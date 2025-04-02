@@ -1,0 +1,17 @@
+{
+  "contracts": {
+    "ESM25_FUT_CME": {
+      "checkpoint_tas": 12165006,
+      "checkpoint_depth": {
+        "date": "2025-04-01",
+        "rec": 327422
+      },
+      "price_adj": 0.01,
+      "tas": true,
+      "depth": true
+    }
+  },
+  "db_path": "C:\\Users\\endeg\\Downloads\\tick_db-master (1)\\tick_db-master\\tick.db",
+  "sc_root": "C:/SierraChart",
+  "sleep_int": 0.30
+}
